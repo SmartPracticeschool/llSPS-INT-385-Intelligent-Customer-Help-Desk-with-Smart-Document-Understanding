@@ -12,5 +12,6 @@ The typical customer care chatbot can answer simple questions, such as store loc
 CHATBOT LINK:
 https://node-red-yafna.eu-gb.mybluemix.net/ui/#!/0?socketid=bvUiD2gGypxBNUaVAABC
 
+A introductory video in made in which I have expalin all the imporatnt steps reqires to make a chatbot using IBM Services.For more information I have upload the ppt also.
 Utube Link:
 https://youtu.be/a2iB1vmMO9w
