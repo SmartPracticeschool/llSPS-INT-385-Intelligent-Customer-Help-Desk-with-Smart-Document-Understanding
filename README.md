@@ -13,5 +13,9 @@ CHATBOT LINK:
 https://node-red-yafna.eu-gb.mybluemix.net/ui/#!/0?socketid=bvUiD2gGypxBNUaVAABC
 
 A introductory video in made in which I have expalin all the imporatnt steps reqires to make a chatbot using IBM Services.For more information I have upload the ppt also.
+
 Utube Link:
 https://youtu.be/a2iB1vmMO9w
+
+Project Report Link:
+https://workdrive.zohoexternal.com/writer/open/jf6ls38fdad2b64c8472398d8ffb767bddc1d?authId=%7B%22linkId%22%3A%225k2wAp9FPiT-LYmlU%22%7D
